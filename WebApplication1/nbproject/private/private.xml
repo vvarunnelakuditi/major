@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/apple/NetBeansProjects/WebApplication1/web/Loginpage.jsp</file>
+            <file>file:/Users/apple/NetBeansProjects/WebApplication1/src/java/utill/UserDAO.java</file>
+            <file>file:/Users/apple/NetBeansProjects/WebApplication1/src/java/utill/ConnectionManager.java</file>
+            <file>file:/Users/apple/NetBeansProjects/WebApplication1/src/java/servlets/LogoutServlet.java</file>
+            <file>file:/Users/apple/NetBeansProjects/WebApplication1/web/ManagerPage.jsp</file>
+            <file>file:/Users/apple/NetBeansProjects/WebApplication1/web/AdminPage.jsp</file>
+            <file>file:/Users/apple/NetBeansProjects/WebApplication1/web/WEB-INF/web.xml</file>
+            <file>file:/Users/apple/NetBeansProjects/WebApplication1/src/java/utill/Mailer.java</file>
+            <file>file:/Users/apple/NetBeansProjects/WebApplication1/src/java/servlets/LoginServlet.java</file>
+            <file>file:/Users/apple/NetBeansProjects/WebApplication1/web/DoctorPage.jsp</file>
+            <file>file:/Users/apple/NetBeansProjects/WebApplication1/src/java/servlets/SendMail.java</file>
+            <file>file:/Users/apple/NetBeansProjects/WebApplication1/src/java/utill/UserBean.java</file>
+            <file>file:/Users/apple/NetBeansProjects/WebApplication1/web/Loginemailverification.jsp</file>
+        </group>
+    </open-files>
+</project-private>
